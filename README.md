@@ -39,6 +39,13 @@ Python ve C++ dillerindeki yetkinliğimi, modern derin öğrenme mimarileriyle b
   <img align="left" alt="Mehmet's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
 <a href="mailto:mehmet.kose.kse.kse@gmail.com">
-  <img align="left" alt="Mehmet's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img 
+    align="left"
+    alt="Mehmet's Email"
+    width="22px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
+    style="filter: invert(28%) sepia(90%) saturate(5000%) hue-rotate(0deg) brightness(100%) contrast(100%);" 
+  />
 </a>
+
 <br />
