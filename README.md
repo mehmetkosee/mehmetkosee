@@ -25,8 +25,12 @@ Python ve C++ dillerindeki yetkinliğimi, modern derin öğrenme mimarileriyle b
 
 ### 📊 GitHub İstatistiklerim
 
-![Mehmet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehmetkosee&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkosee&layout=compact&theme=radical)
+<p align="left">
+<a href="https://github.com/mehmetkosee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmetkosee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkosee&layout=compact&theme=dark"/>
+</a>
+</p>
 
 ---
 
@@ -39,13 +43,6 @@ Python ve C++ dillerindeki yetkinliğimi, modern derin öğrenme mimarileriyle b
   <img align="left" alt="Mehmet's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
 <a href="mailto:mehmet.kose.kse.kse@gmail.com">
-  <img 
-    align="left"
-    alt="Mehmet's Email"
-    width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"
-    style="filter: invert(28%) sepia(90%) saturate(5000%) hue-rotate(0deg) brightness(100%) contrast(100%);" 
-  />
+  <img align="left" alt="Mehmet's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
 <br />
