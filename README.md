@@ -1,8 +1,6 @@
 # Merhaba, ben Mehmet! 👋
 
-Çankırı Karatekin Üniversitesi **Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.** Yazılım dünyasında kendimi sürekli geliştirmeye odaklanıyorum. Özellikle **Yapay Zeka**, **Bilgisayar Görüsü (Computer Vision)** ve **Makine Öğrenmesi** alanlarında uzmanlaşıyor ve projeler geliştiriyorum.
-
-Python ve C++ dillerindeki yetkinliğimi, modern derin öğrenme mimarileriyle birleştirerek verimli AI çözümleri üretmeyi hedefliyorum.
+Çankırı Karatekin Üniversitesi **Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.** Yazılım dünyasında kendimi sürekli geliştirmeye odaklanıyorum. Özellikle **Yapay Zeka**, **Bilgisayar Görüsü (Computer Vision)** ve **Makine Öğrenmesi** alanlarında uzmanlaşıyor ve projeler geliştiriyorum. Modern derin öğrenme mimarileriyle verimli AI çözümleri üretmeyi hedefliyorum.
 
 ---
 
@@ -17,7 +15,7 @@ Python ve C++ dillerindeki yetkinliğimi, modern derin öğrenme mimarileriyle b
 
 ---
 
-### 🌱 Neler Öğreniyorum?
+###  Neler Öğreniyorum?
 * Derin Öğrenme (Deep Learning) mimarileri ve optimizasyonu.
 * Büyük veri setleri üzerinde model eğitimi ve analizi.
 
