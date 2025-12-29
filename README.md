@@ -21,17 +21,6 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<p align="left">
-<a href="https://github.com/mehmetkosee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehmetkosee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetkosee&layout=compact&theme=dark"/>
-</a>
-</p>
-
----
-
 ### 📫 İletişim
 
 <a href="https://www.linkedin.com/in/mehmeet-k0se/">
