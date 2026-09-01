@@ -1,4 +1,4 @@
-# Merhaba, ben Mehmet! 👋
+# Merhaba, ben Mehmet!
 
 Çankırı Karatekin Üniversitesi **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.** Yazılım dünyasında kendimi sürekli geliştirmeye odaklanıyorum. Özellikle **Yapay Zeka**, **Derin Öğrenme**, **Bilgisayar Görüsü (Computer Vision)** ve **Makine Öğrenmesi** alanlarında uzmanlaşıyor ve projeler geliştiriyorum. Modern derin öğrenme mimarileriyle verimli AI çözümleri üretmeyi hedefliyorum.
 
